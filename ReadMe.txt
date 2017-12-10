@@ -1,4 +1,4 @@
-Buddhabrot - Draws the fractal of Buddhabrot in the Go progamming language
+Buddhabrot - Draws the fractal of Buddhabrot in the Go ( GoLang ) progamming language
              and in the Python programming language.
              The Go implementation is 160x faster than the Python implementation.
              The Go version is instrumentalized with memory and CPU profiller.

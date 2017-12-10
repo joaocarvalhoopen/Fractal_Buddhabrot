@@ -1,4 +1,4 @@
-// Buddhabrot - Draws the fractal of Buddhabrot in the Go progamming language.
+// Buddhabrot - Draws the fractal of Buddhabrot in the Go ( GoLang ) progamming language.
 // Author:  Joao Nuno Carvalho
 // Email:   joaonunocarv@gmail.com
 // Date:    2017.12.9
